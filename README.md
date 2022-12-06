@@ -1,1 +1,1 @@
-#www.patika.dev ile ogrendiklerimi uyguluyorum.
+tum ogrendiklerim birarada
