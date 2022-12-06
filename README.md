@@ -1,1 +1,1 @@
-#Html ile ogrendiklerimi uyguluyorum.
+#www.patika.dev ile ogrendiklerimi uyguluyorum.
